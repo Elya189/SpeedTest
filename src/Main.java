@@ -1,14 +1,15 @@
+import java.io.File;
 import java.io.IOException;
 
 public class Main {
 
-    public static void main (String[] args) throws IOException {
-        long startTime = System.currentTimeMillis();
+    public static void main(String[] args) throws IOException {
         Work work = new Work();
         work.SpaceDisk();
         work.file();
-        long timeSpent = System.currentTimeMillis() - startTime;
-        System.out.println("Program process  " + timeSpent + " millis");
+        //Interface anInterface = new Interface ();
+        // anInterface.Draw();
+
     }
 
 }
