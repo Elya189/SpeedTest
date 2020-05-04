@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="speedtest" />
+    </artifacts-to-build>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,15 +24,21 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de7e80c2-b7d1-44b9-bc81-4c1c2e10cd86" name="Default Changelist" comment="fits commit">
+    <list default="true" id="de7e80c2-b7d1-44b9-bc81-4c1c2e10cd86" name="Default Changelist" comment="jar">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/speedtest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/speedtest_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speedtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/speedtest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +64,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Program Files/Git" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Эльвира\Documents\ПОЛИТЕХ\OOP\SpeedTest\src" />
       <recent name="C:\Users\Эльвира\Desktop\SpeedTest\src" />
     </key>
   </component>
@@ -104,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588487540332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jar">
+      <created>1588489085064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588489085064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +141,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -135,19 +155,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+      <path value="$USER_HOME$/Program Files/Git" />
+      <path value="$PROJECT_DIR$/../../../../../../Program Files/Git" />
+    </ignored-roots>
     <MESSAGE value="fits commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fits commit" />
+    <MESSAGE value="jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="jar" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="236" y="0" key="#Project_Structure" timestamp="1588575533168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="236" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588575533168" />
     <state x="274" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588270638461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="274" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588270638461" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581938108341" />
-    <state x="549" y="172" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588488900792">
+    <state x="437" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588572796131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="549" y="172" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1588488900792" />
+    <state x="437" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588572796131" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1588570640729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588570640729" />
+    <state x="549" y="172" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588576069148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="172" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1588576069148" />
     <state x="807" y="416" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581937636253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -156,34 +195,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="54" width="1092" height="610" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588310287558" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1588486947463">
+    <state x="473" y="132" key="FileChooserDialogImpl" timestamp="1588568647167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588486947463" />
-    <state width="1323" height="240" key="GridCell.Tab.0.bottom" timestamp="1588311129966">
+    <state x="473" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588568647167" />
+    <state width="661" height="177" key="GridCell.Tab.0.bottom" timestamp="1588576093662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="240" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588311129966" />
+    <state width="661" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588576093662" />
     <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581940777937" />
-    <state width="1323" height="240" key="GridCell.Tab.0.center" timestamp="1588311129966">
+    <state width="661" height="177" key="GridCell.Tab.0.center" timestamp="1588576093661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="240" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588311129966" />
+    <state width="661" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588576093661" />
     <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581940777937" />
-    <state width="1323" height="240" key="GridCell.Tab.0.left" timestamp="1588311129966">
+    <state width="661" height="177" key="GridCell.Tab.0.left" timestamp="1588576093660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="240" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588311129966" />
+    <state width="661" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588576093660" />
     <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581940777937" />
-    <state width="1323" height="240" key="GridCell.Tab.0.right" timestamp="1588311129966">
+    <state width="661" height="177" key="GridCell.Tab.0.right" timestamp="1588576093661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="240" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588311129966" />
+    <state width="661" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588576093661" />
     <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581940777937" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1588488924436">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1588576072943">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588488924436" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588576072943" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1588487556443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -192,13 +231,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581934992703" />
+    <state x="293" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588490449270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="293" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1588490449270" />
     <state x="410" y="152" key="git4idea.merge.GitPullDialog" timestamp="1588486922733">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="410" y="152" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1588486922733" />
-    <state x="385" y="155" key="new project wizard" timestamp="1581939051712">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="131" y="0" key="new project wizard" timestamp="1588525569430">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588525569430" />
     <state x="385" y="155" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581939051712" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1581936215684">
       <screen x="0" y="0" width="1920" height="1040" />
